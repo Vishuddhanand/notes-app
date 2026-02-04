@@ -4,7 +4,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-Open--Source-blue)
 
 > A full stack notes application built with the MERN stack, enabling users to create, update, and manage notes with a clean UI and RESTful backend.
 
@@ -34,6 +33,3 @@ The application focuses on simplicity, scalability, and clean architecture.
 - Modular and maintainable codebase
 
 ---
-
-npm install
-npm start
